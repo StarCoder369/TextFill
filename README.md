@@ -2,12 +2,13 @@
 
 A Python text auto fill tool that lets users create shortcuts that will automatically fill in with pre-defined text to make tasks more efficient.
 
-The below picture shows the streamlined Menu Bar version.
+The below picture shows screenshots of the streamlined menu bar version and the ui version.
 
 <img width="133" height="278" alt="Screenshot 2026-06-28 at 6 06 59 PM" src="https://github.com/user-attachments/assets/b7cb880b-9613-4d1b-98b1-988c3d3cbd7e" />
+<img width="450" height="319" alt="Screenshot 2026-06-28 at 8 46 55 PM" src="https://github.com/user-attachments/assets/267b0a21-746a-4133-b014-108550d2651a" />
 
 ## Demo
-Below are the links for the different versions and for different devices.
+Below are the links for the different versions.
 
 (**Check 'Quick Start' for more instructions**)
 
