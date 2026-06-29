@@ -258,12 +258,14 @@ Sometimes Windows Defender may restrict `.exe` files built with PyInstaller:
 - Shortcuts are saved locally and persist between launches
 - If nothing triggers, ensure the app is running with normal user permissions (not blocked by antivirus or system protection)
 
+## How it Works
+I used Python to create TextFill. The UI version uses a package called Tkinter for the UI, and the menu bar version uses Rumps and pyobjc(AppKit) for the UI on the menu bar. Both use PyAutoGUI and pynput for the main text fill functionality, and they both have been packaged using PyInstaller.
+
 ## Additional Info
 
-This project uses the following open-source libraries:
+This project mainly uses the following open-source libraries:
 
 * PyAutoGUI
 * pynput
-* pyperclip
 * rumps
 * pyobjc
