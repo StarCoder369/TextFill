@@ -261,6 +261,13 @@ Sometimes Windows Defender may restrict `.exe` files built with PyInstaller:
 ## How it Works
 I used Python to create TextFill. The UI version uses a package called Tkinter for the UI, and the menu bar version uses Rumps and pyobjc(AppKit) for the UI on the menu bar. Both use PyAutoGUI and pynput for the main text fill functionality, and they both have been packaged using PyInstaller.
 
+## AI Usage
+AI usage is very low in this project. Below are some things AI was used for.
+ - Basic code organization (Make code more readable)
+ - README organization
+ - Finding the best syntax/package to use for a specific feature
+ - Basic optimization tips (Not directly writing code)
+
 ## Additional Info
 
 This project mainly uses the following open-source libraries:
