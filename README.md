@@ -68,7 +68,7 @@ Use this section if you want to run or modify the project directly from the code
 - pip (included with Python)
 - Supported OS:
   - Windows 10/11 (UI version)
-  - macOS 11 recommended(UI and menu bar versions)
+  - macOS 11 or higher recommended(UI and menu bar versions)
 
 ---
 
