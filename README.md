@@ -42,7 +42,7 @@ Assets other than .zip files are not part of the app or executable, and can be i
 1. Download the files from the demo link (Github Release).
 2. Launch: `TextFill_MenuBar.app`
 
-**Please check the [Additional Info](#additional-info) section if you encounter any problems running the application**
+**Please check the [Important Info](#important-info) section if you encounter any problems running the application**
 
 ---
 
