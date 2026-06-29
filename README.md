@@ -10,7 +10,7 @@ The below picture shows screenshots of the streamlined menu bar version and the 
 ## Demo
 Below are the links for the different versions.
 
-(**Check 'Quick Start' for more instructions**)
+(**Check [Quick Start](#quick-start) for more instructions**)
 
 (The Mac Menubar version is recommended for users who want a streamlined version and are on Mac)
 
@@ -18,7 +18,7 @@ Below are the links for the different versions.
 
  - [Mac + Windows Release - UI](https://github.com/StarCoder369/TextFill/releases/tag/v1.0.0-ui)
 
-Make sure to download the correct version depending on your device. Download the textfill.ui.windows.zip version if you are on windows, and download the textfill.ui.mac.zip version if you are on mac.
+Make sure to download the correct version depending on your device. Download the `textfill.ui.windows.zip` version if you are on windows, and download the `textfill.ui.mac.zip` version if you are on mac.
 
 ### Textfill Menubar Version (Mac only)
  - [Mac Release - Menubar](https://github.com/StarCoder369/TextFill/releases/tag/v1.0.0-menubar)
@@ -34,15 +34,15 @@ Assets other than .zip files are not part of the app or executable, and can be i
 1. Download the files from the demo link (Github Release).
 2. Launch:
 
-   - `TextFill.exe` on Windows
-   - `TextFill.app` on Mac
+   - `TextFill_UI.exe` on Windows
+   - `TextFill_UI.app` on Mac
 
 ### Menu Bar Version (Only Mac)
 
 1. Download the files from the demo link (Github Release).
-2. Launch: `TextFill.app`
+2. Launch: `TextFill_MenuBar.app`
 
-**Please check the Important Info section if you encounter any problems running the application**
+**Please check the [Additional Info](#additional-info) section if you encounter any problems running the application**
 
 ---
 
@@ -77,7 +77,7 @@ Use this section if you want to run or modify the project directly from the code
 ### Option 1: Clone the repository
 
 ```
-git clone <>
+git clone <https://github.com/StarCoder369/TextFill>
 cd TextFill
 ```
 
@@ -176,7 +176,7 @@ If this happens:
 
 ---
 
-After the app launches, Mac will likely request permissions for keyboard input features used by TextFill. (Even if it doesn't, you'll most likely have to follow the stpes below)
+After the app launches, Mac will likely request permissions for keyboard input features used by TextFill. (Even if it doesn't, you'll most likely have to follow the steps below)
 
 If you see a prompt for **Input Monitoring** or **Accessibility**, follow the steps below.
 
