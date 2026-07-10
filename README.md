@@ -58,6 +58,7 @@ The main QoL improvements are
 - Making repetitive tasks shorter and more efficient
 - A settings panel where users can easily modify their preferences depending on their usual tasks
 - An automatic save/load system that makes sure users never lose their shortcuts
+
 The Mac Menu Bar version also makes sure people who don't like too many windows open can have the main functionality without bothering them.
 
 ---
